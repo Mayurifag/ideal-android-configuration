@@ -22,7 +22,12 @@ on your PC:
 
 ## New ROM installation
 
-* Magisk
+* TWRP
+* [Magisk](https://4pda.to/forum/index.php?showtopic=774072)
+  * [Magisk Manager for Recovery Mode](https://4pda.to/forum/index.php?showtopic=915158&st=0#entry76265618)
+  * [Magisk Manager Recovery Tool](https://4pda.to/forum/index.php?showtopic=915158&st=20#entry81113962)
+* [LuckyPatcher](https://4pda.to/forum/index.php?showtopic=298302)
+* Xposed via Magisk — long reboot :(
 * ...
 
 ## OS configuration
@@ -44,16 +49,12 @@ on your PC:
 * [Mattermost](https://play.google.com/store/apps/details?id=com.mattermost.rn)
 * [Metamask](https://play.google.com/store/apps/details?id=io.metamask) - try
 other wallets
-* [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
-* [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
 * [Priority Pass](https://play.google.com/store/apps/details?id=com.prioritypass3)
 * [Solflare](https://play.google.com/store/apps/details?id=com.solflare.mobile)
 * [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark)
 * [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
 * [Urent](https://play.google.com/store/apps/details?id=ru.urentbike.app)
-* [Shadowsocks plugin v2ray](https://play.google.com/store/apps/details?id=com.github.shadowsocks.plugin.v2ray)
 * [Yota](https://play.google.com/store/apps/details?id=ru.yota.android)
-* [билайн](https://play.google.com/store/apps/details?id=ru.beeline.services)
 * [ВТБ](https://play.google.com/store/apps/details?id=ru.vtb24.mobilebanking.android)
 * [ВТБ Инвестиции](https://play.google.com/store/apps/details?id=ru.vtb.invest)
 * [Госуслуги](https://play.google.com/store/apps/details?id=ru.rostel)
@@ -76,36 +77,48 @@ Main package [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fd
 
 * [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) + Henchan
 
-## Applications/mods from 4pda or similar russian sites
+## Applications/mods from 4pda or another sites
 
 * [#WhoCalls Kaspersky mod](https://4pda.to/forum/index.php?showtopic=962141)
 * [DriveDroid (+ fresh mirrors)](https://4pda.to/forum/index.php?showtopic=405264)
 * [Flamingo for Twitter](https://4pda.to/forum/index.php?showtopic=750208)
+* [GBoard SRow mod](https://4pda.to/forum/index.php?s=&showtopic=469533&view=findpost&p=63157237)
+* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)
 * [KeepassDX](https://4pda.to/forum/index.php?showtopic=956751)
+* [KinoPub](https://kino.pub/plugin/android)
 * [MX Player Pro mod](https://4pda.to/forum/index.php?showtopic=253883)
+* [Nova Launcher Prime Mod](https://4pda.to/forum/index.php?showtopic=297970) -> remove old launcher, move to system-apps
 * [Pushbullet Pro mod](https://4pda.to/forum/index.php?showtopic=444653)
-* [Shadowsocks mod](https://4pda.to/forum/index.php?showtopic=744431)
+* [SD Maid mod](https://4pda.to/forum/index.php?showtopic=230839)
+* [Shazam mod lite](https://4pda.to/forum/index.php?showtopic=128657)
 * [Solid Explorer mod](https://4pda.to/forum/index.php?showtopic=325553)
 * [Stellio Player Premium](https://pdalife.ru/stellio-player-android-a33518.html)
 * [Titanium Backup Pro by Balatan](https://4pda.to/forum/index.php?showtopic=152562)
 * [Todoist Premium mod](https://4pda.to/forum/index.php?showtopic=445134)
 * [Twitch Adfree mod](https://4pda.to/forum/index.php?showtopic=320321)
-* [Vanced Manager](https://4pda.to/forum/index.php?showtopic=997981) +
-[Youtube Vanced](https://4pda.to/forum/index.php?showtopic=916464)
-* [VK mods: Sova/VTosters](https://4pda.to/forum/index.php?showtopic=246233)
+* [Vanced Manager](https://4pda.to/forum/index.php?showtopic=997981)
+  * [Youtube Vanced](https://4pda.to/forum/index.php?showtopic=916464)
+* [Web Alert](https://4pda.to/forum/index.php?showtopic=1020319)
+* [WIBR+ WiFi Bruteforce](https://4pda.to/forum/index.php?showtopic=474979)
+* [билайн](https://strannikmodz.me/apps/call-and-sms/1167-beeline-mp.html)
 * [Почта России lite mod](https://4pda.to/forum/index.php?showtopic=527578)
 * [Сбербанк от Blue cat](https://4pda.to/forum/index.php?showtopic=413213)
 
 ## Not used
 
 * [4pda](https://play.google.com/store/apps/details?id=ru.fourpda.client) + dark
-mod
+mod or [neptune](https://4pda.to/forum/index.php?showtopic=912798)
+* Яндекс.Музыка
+* [Едадил](https://strannikmodz.me/apps/office/1000-edadil.html)
+* [Headhunter](https://strannikmodz.me/apps/other/745-headhunter.html)
+* [Avito](https://strannikmodz.me/apps/internet/309-avito-800.html)
+* [Купи Батон!](https://4pda.to/forum/index.php?showtopic=494295)
 
 ## Research and todos
 
 ### Browsers
 
-Iceraven (outdated) / Fenix / Fennec / Mull (arkenfox hard config)
+Iceraven (outdated) / Fenix / Fennec / Mull (arkenfox hard config) / Bromite / Styx
 
 ### Crypto
 
@@ -120,19 +133,64 @@ Iceraven (outdated) / Fenix / Fennec / Mull (arkenfox hard config)
 ### Email
 
 [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark) or smth else
+AquaMail
 
 ### Telegram client
 
-Telegram-FOSS or smth
+Telegram-FOSS / [!!!Turbotel mod Alex.Strannik](https://4pda.to/forum/index.php?showtopic=820264) /
+Telegram Plus Alex.Strannik
+
+### Shadowsocks
+
+* [V2RayNG mod](https://4pda.to/forum/index.php?showtopic=1033788)
+* [Shadowsocks mod](https://4pda.to/forum/index.php?showtopic=744431)
+* [Shadowsocks plugin v2ray](https://play.google.com/store/apps/details?id=com.github.shadowsocks.plugin.v2ray)
+
+### VK
+
+* [VK mods: Sova/VTosters/MP3 Alex.Strannik](https://4pda.to/forum/index.php?showtopic=246233)
+* [VK Helper](https://strannikmodz.me/apps/internet/896-vk-helper.html)
+
+### Torrents
+
+Torrent Client - ??? ttorrent or flud
+[Rutracker - Flow](https://4pda.to/forum/index.php?showtopic=729411)
 
 ### Other
 
 * [Mi Home](https://play.google.com/store/apps/details?id=com.xiaomi.smarthome) моды
 * research [apps without shit](https://4pda.to/forum/index.php?showtopic=1005108&st=220)
-* research book reading app ([PocketBook](https://play.google.com/store/apps/details?id=com.obreey.reader))
+* research book reading app ([PocketBook](https://play.google.com/store/apps/details?id=com.obreey.reader)) +
+online lib OPDF or smth / Moon+ Reader
 * qr scanner in google camera
-* [Quizlet](https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid)
+* [Quizlet](https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid) /
+[Memrise](https://strannikmodz.me/apps/learning/1010-memrise.html) /
+[TOEFL](https://strannikmodz.me/apps/learning/587-toefl.html)
 * [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 * [Sign.Me](https://play.google.com/store/apps/details?id=me.sign)
 * Games
 * TTL / yota via shadowsocks
+* [FFmpeg GUI mod Alex.Strannik](https://4pda.to/forum/index.php?showtopic=318265)
+* Clock + weather [Chronus](https://4pda.to/forum/index.php?showtopic=425879) + Abhra theme
+* Save battery life? <https://4pda.to/forum/index.php?s=&showtopic=915158&view=findpost&p=95556498>
+* Magisk ios14 emojis
+* TZData fixes
+* Better block spam
+* Calls recorder [cube acr alex.strannik mod](https://4pda.to/forum/index.php?showtopic=845323&st=1560)
+* Torch setting check / desktop widget
+* Tor configuration
+* Greenify — do I need it? without agressive mod. Battery show who exactly eats
+on chosen amount of time
+* [Glitch Lab](https://strannikmodz.me/apps/multimedia/827-glitch-lab.html)
+* Calculator
+* Stocks / Calendar widgets
+* zen money
+* QuickPic Gallery
+
+## Inspired
+
+* [Old post about android configuration](https://gist.github.com/Robpol86/6026509)
+* [4pda post about magisk modules](https://4pda.to/forum/index.php?showtopic=946260&st=120#entry79458465)
+* [ROM/Camera, etc. configuration](https://4pda.to/forum/index.php?showtopic=1023071&view=findpost&p=111994948)
+* [Прошивки MIUI шапка описание](https://4pda.to/forum/index.php?showtopic=1019227)
+* [Interesting post 4pda](https://4pda.to/forum/index.php?showtopic=151739&view=findpost&p=106328856)
