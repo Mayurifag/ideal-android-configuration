@@ -186,6 +186,7 @@ on chosen amount of time
 * Stocks / Calendar widgets
 * zen money
 * QuickPic Gallery
+* Screenshot -> all the page with scrolling
 
 ## Inspired
 
