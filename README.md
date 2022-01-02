@@ -22,12 +22,13 @@ on your PC:
 
 ## New ROM installation
 
-* TWRP
+* [TWRP](https://4pda.to/forum/index.php?showtopic=1023071&view=findpost&p=112114787)
 * [Magisk](https://4pda.to/forum/index.php?showtopic=774072)
   * [Magisk Manager for Recovery Mode](https://4pda.to/forum/index.php?showtopic=915158&st=0#entry76265618)
   * [Magisk Manager Recovery Tool](https://4pda.to/forum/index.php?showtopic=915158&st=20#entry81113962)
 * [LuckyPatcher](https://4pda.to/forum/index.php?showtopic=298302)
 * Xposed via Magisk — long reboot :(
+* ROM — ArrowOS A12
 * ...
 
 ## OS configuration
@@ -197,3 +198,9 @@ on chosen amount of time
 * [ROM/Camera, etc. configuration](https://4pda.to/forum/index.php?showtopic=1023071&view=findpost&p=111994948)
 * [Прошивки MIUI шапка описание](https://4pda.to/forum/index.php?showtopic=1019227)
 * [Interesting post 4pda](https://4pda.to/forum/index.php?showtopic=151739&view=findpost&p=106328856)
+
+ROM posts:
+
+* <https://4pda.to/forum/index.php?showtopic=1023071&st=3460#entry111242184>
+* <https://4pda.to/forum/index.php?showtopic=1023071&st=3800#entry111582972>
+* <https://4pda.to/forum/index.php?showtopic=1023071&st=3680#entry111446743>
