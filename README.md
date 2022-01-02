@@ -126,9 +126,11 @@ Iceraven (outdated) / Fenix / Fennec / Mull (arkenfox hard config) / Bromite / S
 * [MEW wallet](https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet)
 * Solana wallet with good import configuration
 
-### Translate audio from PC to phone
+### Interaction with PC
 
-[Soundwire](https://4pda.to/forum/index.php?showtopic=456143) / AudioRelay / sonobus
+* Translate audio: [Soundwire](https://4pda.to/forum/index.php?showtopic=456143) / AudioRelay / sonobus
+* Sharing files: pushbullet alternative. Research snapdrop/opendrop/croc
+* Remote control that works on Linux and Windows. Maybe macos as well.
 
 ### Email
 
