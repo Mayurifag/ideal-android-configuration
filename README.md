@@ -77,6 +77,7 @@ Main package [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fd
 * [Nextcloud](https://f-droid.org/packages/com.nextcloud.client/)
 
 * [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) + Henchan
+* [Warden](https://gitlab.com/AuroraOSS/AppWarden)
 
 ## Applications/mods from 4pda or another sites
 
@@ -157,7 +158,7 @@ Telegram Plus Alex.Strannik
 ### Torrents
 
 Torrent Client - ??? ttorrent or flud
-[Rutracker - Flow](https://4pda.to/forum/index.php?showtopic=729411)
+[Rutracker - Flow](https://4pda.to/forum/index.php?showtopic=729411) / Libretorrent
 
 ### Other
 
