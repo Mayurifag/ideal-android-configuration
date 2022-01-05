@@ -17,21 +17,20 @@ on your PC:
 * ...
 * Ublock origin settings
 
-## New ROM installation
+## ROM and addons installation
 
-* [TWRP](https://4pda.to/forum/index.php?showtopic=1023071&view=findpost&p=112114787)
-* [Magisk](https://4pda.to/forum/index.php?showtopic=774072)
-  * [Magisk Manager for Recovery Mode](https://4pda.to/forum/index.php?showtopic=915158&st=0#entry76265618)
-  * [Magisk Manager Recovery Tool](https://4pda.to/forum/index.php?showtopic=915158&st=20#entry81113962)
-* [LuckyPatcher](https://4pda.to/forum/index.php?showtopic=298302)
-* Xposed via Magisk — long reboot :(
-* ROM — ArrowOS A12
-* ...
+Featuring for Poco F3:
+
+* [TWRP A12](https://4pda.to/forum/index.php?showtopic=1023071&view=findpost&p=112114787)
+* [Magisk.zip](https://4pda.to/forum/index.php?showtopic=774072)
+* [NikGapps Core (Version S)](https://nikgapps.com/downloads)
+* [ROM — ArrowOS A12](https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-official.4348617/)
+
+Flashing ROM instruction located at [ROM.md](ROM.md)
 
 ## OS configuration
 
-* Settings
-* ...
+OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
 
 ## Free or already paid applications from Google Play
 
@@ -72,6 +71,7 @@ Main package [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fd
 * [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway)
 * [Dashchan](https://f-droid.org/en/packages/com.mishiranu.dashchan/) + TODO: настройка
 * [Nextcloud](https://f-droid.org/packages/com.nextcloud.client/)
+* KeepassDX
 
 * [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) + Henchan
 * [Warden](https://gitlab.com/AuroraOSS/AppWarden)
@@ -83,8 +83,8 @@ Main package [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fd
 * [Flamingo for Twitter](https://4pda.to/forum/index.php?showtopic=750208)
 * [GBoard SRow mod](https://4pda.to/forum/index.php?s=&showtopic=469533&view=findpost&p=63157237)
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)
-* [KeepassDX](https://4pda.to/forum/index.php?showtopic=956751)
 * [KinoPub](https://kino.pub/plugin/android)
+* [LuckyPatcher](https://4pda.to/forum/index.php?showtopic=298302)
 * [MX Player Pro mod](https://4pda.to/forum/index.php?showtopic=253883)
 * [Nova Launcher Prime Mod](https://4pda.to/forum/index.php?showtopic=297970) -> remove old launcher, move to system-apps
 * [Pushbullet Pro mod](https://4pda.to/forum/index.php?showtopic=444653)
@@ -146,6 +146,7 @@ Telegram Plus Alex.Strannik
 * [V2RayNG mod](https://4pda.to/forum/index.php?showtopic=1033788)
 * [Shadowsocks mod](https://4pda.to/forum/index.php?showtopic=744431)
 * [Shadowsocks plugin v2ray](https://play.google.com/store/apps/details?id=com.github.shadowsocks.plugin.v2ray)
+* Sagernet
 
 ### VK
 
@@ -156,6 +157,12 @@ Telegram Plus Alex.Strannik
 
 Torrent Client - ??? ttorrent or flud
 [Rutracker - Flow](https://4pda.to/forum/index.php?showtopic=729411) / Libretorrent
+
+### Magisk modules
+
+* [Magisk Manager for Recovery Mode](https://4pda.to/forum/index.php?showtopic=915158&st=0#entry76265618)
+* [Magisk Manager Recovery Tool](https://4pda.to/forum/index.php?showtopic=915158&st=20#entry81113962)
+* Xposed
 
 ### Other
 
@@ -187,7 +194,13 @@ on chosen amount of time
 * Stocks / Calendar widgets
 * zen money
 * QuickPic Gallery
+* Dns shop
 * Screenshot -> all the page with scrolling
+
+## Things to do after installations
+
+Go to Settings -> Apps + notifications + battery (thermal profiles) + privacy
+(privacy dashboard)
 
 ## Inspired
 
