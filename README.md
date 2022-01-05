@@ -8,17 +8,14 @@ explains how I setup my android smartphone.
 Phone related links are given for my phone, you should find your phone's
 analogs.
 
-## Backup or unlock bootloader
-
-If you just bought your phone, you'll most probably need to
-[unlock the bootloader](https://4pda.to/forum/index.php?showtopic=721838&st=14360#entry63359408)
-to install custom ROM and recovery.
+## Backup
 
 If you reistall ROM or have another phone, you should make backup and have it
 on your PC:
 
 * Titanium Backup: ...
 * ...
+* Ublock origin settings
 
 ## New ROM installation
 
