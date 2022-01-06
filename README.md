@@ -97,6 +97,7 @@ Repositories: F-Droid, IzzyOnDroid;
 * Library: updates disable
 * Reader: Left to right; fast animation; 32bit; Crop borders
 * Security: Enable all
+* Advanced: Disable reports
 
 [ ] [Warden](https://gitlab.com/AuroraOSS/AppWarden)
 
@@ -110,6 +111,21 @@ Repositories: F-Droid, IzzyOnDroid;
 * disable web server
 
 [ ] [DriveDroid (+ fresh mirrors)](https://4pda.to/forum/index.php?showtopic=405264)
+[ ] [Fennec mod lite](https://4pda.to/forum/index.php?showtopic=1009463&view=findpost&p=112007367):
+
+* Settings:
+  * Search: Google, delete not needed ones
+  * Tabs: List | Close after one week
+  * Homepage: ??? | Opening screen - Last tab
+  * Logins / Credit Cards: Never save (using keepassdx), never fill
+  * Set as Default browser
+  * *Open links in apps* - enable
+* Addons:
+  * Ublock Origin - restore settings from desktop
+  * Dark Reader
+  * Search by Image
+* Homepage - clean pinned shit
+
 [ ] [Flamingo for Twitter](https://4pda.to/forum/index.php?showtopic=750208)
 [ ] [GBoard SRow mod](https://4pda.to/forum/index.php?s=&showtopic=469533&view=findpost&p=63157237)
 [ ] [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)
@@ -122,7 +138,7 @@ Repositories: F-Droid, IzzyOnDroid;
 [ ] [Shazam mod lite](https://4pda.to/forum/index.php?showtopic=128657)
 [ ] [Solid Explorer mod](https://4pda.to/forum/index.php?showtopic=325553)
 [ ] [Stellio Player Premium](https://pdalife.ru/stellio-player-android-a33518.html)
-[ ] [Telegram Plus](https://strannikmodz.me/apps/social/231-telegram-6110.html)
+[ ] [Telegram Plus](https://4pda.to/forum/index.php?showtopic=649318)
 [ ] [Titanium Backup Pro by Balatan](https://4pda.to/forum/index.php?showtopic=152562)
 [ ] [Todoist Premium mod](https://4pda.to/forum/index.php?showtopic=445134)
 [ ] [Twitch Adfree mod](https://4pda.to/forum/index.php?showtopic=320321)
@@ -148,22 +164,7 @@ mod or [neptune](https://4pda.to/forum/index.php?showtopic=912798)
 
 ### Browsers
 
-Iceraven (outdated) / Fenix / Fennec / Mull (arkenfox hard config) / Bromite / Styx
-
-[ ] [Fennec mod lite](https://4pda.to/forum/index.php?showtopic=1009463&view=findpost&p=112007367):
-
-* Settings:
-  * Search: Google, delete not needed ones
-  * Tabs: List | Close after one week
-  * Homepage: ??? | Opening screen - Last tab
-  * Logins / Credit Cards: Never save (using keepassdx), never fill
-  * Set as Default browser
-  * *Open links in apps* - enable
-* Addons:
-  * Ublock Origin - restore settings from desktop
-  * Dark Reader
-  * Search by Image
-* Homepage - clean pinned shit
+Bromite / Styx
 
 ### Crypto
 
@@ -180,11 +181,6 @@ Iceraven (outdated) / Fenix / Fennec / Mull (arkenfox hard config) / Bromite / S
 
 [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark) or smth else
 AquaMail
-
-### Telegram client
-
-Telegram-FOSS / [!!!Turbotel mod Alex.Strannik](https://4pda.to/forum/index.php?showtopic=820264) /
-Telegram Plus Alex.Strannik
 
 ### Shadowsocks
 

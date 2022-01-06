@@ -53,3 +53,7 @@ Source from [4pda](https://4pda.to/forum/index.php?showtopic=1023071&st=1840#Spo
 * Install 1-by-1: DFE; Magisk; NikGapps Core (Version S)
 * TWRP -> Wipe -> Format Data -> yes
 * Reboot -> Recovery (just in case) -> Reboot -> System
+
+### First to install apps
+
+Gboard, Nova, KeepassDX, Nextcloud, Fennec
