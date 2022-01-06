@@ -16,6 +16,8 @@ on your PC:
 * Titanium Backup: ...
 * ...
 * Ublock origin settings
+* KeepassDX settings
+* Nova Backup
 
 ## ROM and addons installation
 
@@ -34,74 +36,103 @@ OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
 
 ## Free or already paid applications from Google Play
 
-* [2ГИС](https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile)
-* [AliExpress New](https://play.google.com/store/apps/details?id=ru.aliexpress.buyer)
-* [Binance](https://play.google.com/store/apps/details?id=com.binance.dev)
-* [CDEK](https://play.google.com/store/apps/details?id=com.logistic.sdek)
-* [Delivery Club](https://play.google.com/store/apps/details?id=com.deliveryclub)
-* [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
-* [IBKR Mobile](https://play.google.com/store/apps/details?id=atws.app)
-* [KuCoin](https://play.google.com/store/apps/details?id=com.kubi.kucoin)
-* [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps)
-* [Mattermost](https://play.google.com/store/apps/details?id=com.mattermost.rn)
-* [Metamask](https://play.google.com/store/apps/details?id=io.metamask) - try
+[ ] [2ГИС](https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile)
+[ ] [AliExpress New](https://play.google.com/store/apps/details?id=ru.aliexpress.buyer)
+[ ] [Binance](https://play.google.com/store/apps/details?id=com.binance.dev)
+[ ] [CDEK](https://play.google.com/store/apps/details?id=com.logistic.sdek)
+[ ] [Delivery Club](https://play.google.com/store/apps/details?id=com.deliveryclub)
+[ ] [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
+[ ] [IBKR Mobile](https://play.google.com/store/apps/details?id=atws.app)
+[ ] [KuCoin](https://play.google.com/store/apps/details?id=com.kubi.kucoin)
+[ ] [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps)
+[ ] [Mattermost](https://play.google.com/store/apps/details?id=com.mattermost.rn)
+[ ] [Metamask](https://play.google.com/store/apps/details?id=io.metamask) - try
 other wallets
-* [Priority Pass](https://play.google.com/store/apps/details?id=com.prioritypass3)
-* [Solflare](https://play.google.com/store/apps/details?id=com.solflare.mobile)
-* [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark)
-* [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
-* [Urent](https://play.google.com/store/apps/details?id=ru.urentbike.app)
-* [Yota](https://play.google.com/store/apps/details?id=ru.yota.android)
-* [ВТБ](https://play.google.com/store/apps/details?id=ru.vtb24.mobilebanking.android)
-* [ВТБ Инвестиции](https://play.google.com/store/apps/details?id=ru.vtb.invest)
-* [Госуслуги](https://play.google.com/store/apps/details?id=ru.rostel)
-* [Дром ПДД](https://play.google.com/store/apps/details?id=ru.drom.pdd.android.app)
-* [Открытие](https://play.google.com/store/apps/details?id=com.openbank)
-* [Открытие Инвестиции](https://play.google.com/store/apps/details?id=ru.openbroker.app)
-* [Тинькофф](https://play.google.com/store/apps/details?id=com.idamob.tinkoff.android)
-* [Тинькофф Инвестиции](https://play.google.com/store/apps/details?id=ru.tinkoff.investing)
-* [Точка](https://play.google.com/store/apps/details?id=ru.zhuck.webapp)
-* [Т—Ж](https://play.google.com/store/apps/details?id=com.tjuraniaapp)
-* [Яндекс Go](https://play.google.com/store/apps/details?id=ru.yandex.taxi)
+[ ] [Priority Pass](https://play.google.com/store/apps/details?id=com.prioritypass3)
+[ ] [Solflare](https://play.google.com/store/apps/details?id=com.solflare.mobile)
+[ ] [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark)
+[ ] [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
+[ ] [TradingView](https://play.google.com/store/apps/details?id=com.tradingview.tradingviewapp)
+[ ] [Urent](https://play.google.com/store/apps/details?id=ru.urentbike.app)
+[ ] [Yota](https://play.google.com/store/apps/details?id=ru.yota.android)
+[ ] [ВТБ](https://play.google.com/store/apps/details?id=ru.vtb24.mobilebanking.android)
+[ ] [ВТБ Инвестиции](https://play.google.com/store/apps/details?id=ru.vtb.invest)
+[ ] [Госуслуги](https://play.google.com/store/apps/details?id=ru.rostel)
+[ ] [Дром ПДД](https://play.google.com/store/apps/details?id=ru.drom.pdd.android.app)
+[ ] [Открытие](https://play.google.com/store/apps/details?id=com.openbank)
+[ ] [Открытие Инвестиции](https://play.google.com/store/apps/details?id=ru.openbroker.app)
+[ ] [Тинькофф](https://play.google.com/store/apps/details?id=com.idamob.tinkoff.android)
+[ ] [Тинькофф Инвестиции](https://play.google.com/store/apps/details?id=ru.tinkoff.investing)
+[ ] [Точка](https://play.google.com/store/apps/details?id=ru.zhuck.webapp)
+[ ] [Т—Ж](https://play.google.com/store/apps/details?id=com.tjuraniaapp)
+[ ] [Яндекс Go](https://play.google.com/store/apps/details?id=ru.yandex.taxi)
 
 ## Open-source applications from F-Droid, Github or similar sites
 
 Main package [Aurora Droid](https://f-droid.org/packages/com.aurora.adroid/)
 
-* [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway)
-* [Dashchan](https://f-droid.org/en/packages/com.mishiranu.dashchan/) + TODO: настройка
-* [Nextcloud](https://f-droid.org/packages/com.nextcloud.client/)
-* KeepassDX
+Repositories: F-Droid, IzzyOnDroid;
 
-* [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) + Henchan
-* [Warden](https://gitlab.com/AuroraOSS/AppWarden)
+[ ] [Dashchan](https://f-droid.org/en/packages/com.mishiranu.dashchan/) + TODO: настройка
+[ ] [**Nextcloud**](https://f-droid.org/packages/com.nextcloud.client/):
+
+* enter application
+* Add passcode
+* *Contacts/calendar backup?*
+
+[ ] [**KeepassDX**](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/): <- Make backup
+
+* App Settings:
+  * Write-protected
+  * Quick Search
+  * Subdomain Search
+  * Show lock button -> disable
+* Form Filling / Advanced unlocking - ??? Use app a bit and make decision
+
+[ ] [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+
+* Install extensions (Henchan)
+* General: Auto-update app disable
+* Appearance: pure black
+* Library: updates disable
+* Reader: Left to right; fast animation; 32bit; Crop borders
+* Security: Enable all
+
+[ ] [Warden](https://gitlab.com/AuroraOSS/AppWarden)
 
 ## Applications/mods from 4pda or another sites
 
-* [#WhoCalls Kaspersky mod](https://4pda.to/forum/index.php?showtopic=962141)
-* [DriveDroid (+ fresh mirrors)](https://4pda.to/forum/index.php?showtopic=405264)
-* [Flamingo for Twitter](https://4pda.to/forum/index.php?showtopic=750208)
-* [GBoard SRow mod](https://4pda.to/forum/index.php?s=&showtopic=469533&view=findpost&p=63157237)
-* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)
-* [KinoPub](https://kino.pub/plugin/android)
-* [LuckyPatcher](https://4pda.to/forum/index.php?showtopic=298302)
-* [MX Player Pro mod](https://4pda.to/forum/index.php?showtopic=253883)
-* [Nova Launcher Prime Mod](https://4pda.to/forum/index.php?showtopic=297970) -> remove old launcher, move to system-apps
-* [Pushbullet Pro mod](https://4pda.to/forum/index.php?showtopic=444653)
-* [SD Maid mod](https://4pda.to/forum/index.php?showtopic=230839)
-* [Shazam mod lite](https://4pda.to/forum/index.php?showtopic=128657)
-* [Solid Explorer mod](https://4pda.to/forum/index.php?showtopic=325553)
-* [Stellio Player Premium](https://pdalife.ru/stellio-player-android-a33518.html)
-* [Titanium Backup Pro by Balatan](https://4pda.to/forum/index.php?showtopic=152562)
-* [Todoist Premium mod](https://4pda.to/forum/index.php?showtopic=445134)
-* [Twitch Adfree mod](https://4pda.to/forum/index.php?showtopic=320321)
-* [Vanced Manager](https://4pda.to/forum/index.php?showtopic=997981)
-  * [Youtube Vanced](https://4pda.to/forum/index.php?showtopic=916464)
-* [Web Alert](https://4pda.to/forum/index.php?showtopic=1020319)
-* [WIBR+ WiFi Bruteforce](https://4pda.to/forum/index.php?showtopic=474979)
-* [билайн](https://strannikmodz.me/apps/call-and-sms/1167-beeline-mp.html)
-* [Почта России lite mod](https://4pda.to/forum/index.php?showtopic=527578)
-* [Сбербанк от Blue cat](https://4pda.to/forum/index.php?showtopic=413213)
+[ ] [#WhoCalls Kaspersky mod](https://4pda.to/forum/index.php?showtopic=962141)
+[ ] [AdAway Lite mod](https://4pda.to/forum/index.php?showtopic=275091):
+
+* disable app updates;
+* hide reboot diaglog after apply
+* disable web server
+
+[ ] [DriveDroid (+ fresh mirrors)](https://4pda.to/forum/index.php?showtopic=405264)
+[ ] [Flamingo for Twitter](https://4pda.to/forum/index.php?showtopic=750208)
+[ ] [GBoard SRow mod](https://4pda.to/forum/index.php?s=&showtopic=469533&view=findpost&p=63157237)
+[ ] [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)
+[ ] [KinoPub](https://kino.pub/plugin/android)
+[ ] [LuckyPatcher](https://4pda.to/forum/index.php?showtopic=298302)
+[ ] [MX Player Pro mod](https://4pda.to/forum/index.php?showtopic=253883)
+[ ] [Nova Launcher Prime Mod](https://4pda.to/forum/index.php?showtopic=297970) -> remove old launcher, move to system-apps, backup
+[ ] [Pushbullet Pro mod](https://4pda.to/forum/index.php?showtopic=444653)
+[ ] [SD Maid mod](https://4pda.to/forum/index.php?showtopic=230839)
+[ ] [Shazam mod lite](https://4pda.to/forum/index.php?showtopic=128657)
+[ ] [Solid Explorer mod](https://4pda.to/forum/index.php?showtopic=325553)
+[ ] [Stellio Player Premium](https://pdalife.ru/stellio-player-android-a33518.html)
+[ ] [Telegram Plus](https://strannikmodz.me/apps/social/231-telegram-6110.html)
+[ ] [Titanium Backup Pro by Balatan](https://4pda.to/forum/index.php?showtopic=152562)
+[ ] [Todoist Premium mod](https://4pda.to/forum/index.php?showtopic=445134)
+[ ] [Twitch Adfree mod](https://4pda.to/forum/index.php?showtopic=320321)
+[ ] [Vanced Manager](https://4pda.to/forum/index.php?showtopic=997981)
+  [ ] [Youtube Vanced](https://4pda.to/forum/index.php?showtopic=916464)
+[ ] [WIBR+ WiFi Bruteforce](https://4pda.to/forum/index.php?showtopic=474979)
+[ ] [Web Alert](https://4pda.to/forum/index.php?showtopic=1020319)
+[ ] [билайн](https://strannikmodz.me/apps/call-and-sms/1167-beeline-mp.html)
+[ ] [Почта России lite mod](https://4pda.to/forum/index.php?showtopic=527578)
+[ ] [Сбербанк от Blue cat](https://4pda.to/forum/index.php?showtopic=413213)
 
 ## Not used
 
@@ -119,12 +150,24 @@ mod or [neptune](https://4pda.to/forum/index.php?showtopic=912798)
 
 Iceraven (outdated) / Fenix / Fennec / Mull (arkenfox hard config) / Bromite / Styx
 
-* [Fennec mod lite](https://4pda.to/forum/index.php?showtopic=1009463&view=findpost&p=112007367)
+[ ] [Fennec mod lite](https://4pda.to/forum/index.php?showtopic=1009463&view=findpost&p=112007367):
+
+* Settings:
+  * Search: Google, delete not needed ones
+  * Tabs: List | Close after one week
+  * Homepage: ??? | Opening screen - Last tab
+  * Logins / Credit Cards: Never save (using keepassdx), never fill
+  * Set as Default browser
+  * *Open links in apps* - enable
+* Addons:
+  * Ublock Origin - restore settings from desktop
+  * Dark Reader
+  * Search by Image
+* Homepage - clean pinned shit
 
 ### Crypto
 
 * Crypto (ether/etc.) wallet
-* [MEW wallet](https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet)
 * Solana wallet with good import configuration
 
 ### Interaction with PC
@@ -201,8 +244,10 @@ on chosen amount of time
 
 ## Things to do after installations
 
-Go to Settings -> Apps + notifications + battery (thermal profiles) + privacy
+* Go to Settings -> Apps + notifications + battery (thermal profiles) + privacy
 (privacy dashboard)
+* Warden -> disable trackers
+* Move keyboard, launcher to system apps, remove old ones
 
 ## Inspired
 
