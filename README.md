@@ -66,7 +66,7 @@ other wallets
 
 ## Open-source applications from F-Droid, Github or similar sites
 
-Main package [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid)
+Main package [Aurora Droid](https://f-droid.org/packages/com.aurora.adroid/)
 
 * [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway)
 * [Dashchan](https://f-droid.org/en/packages/com.mishiranu.dashchan/) + TODO: настройка
@@ -118,6 +118,8 @@ mod or [neptune](https://4pda.to/forum/index.php?showtopic=912798)
 ### Browsers
 
 Iceraven (outdated) / Fenix / Fennec / Mull (arkenfox hard config) / Bromite / Styx
+
+* [Fennec mod lite](https://4pda.to/forum/index.php?showtopic=1009463&view=findpost&p=112007367)
 
 ### Crypto
 
