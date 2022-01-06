@@ -50,8 +50,7 @@ OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
 other wallets
 * [Priority Pass](https://play.google.com/store/apps/details?id=com.prioritypass3)
 * [Pushbullet](https://play.google.com/store/apps/details?id=com.pushbullet.android)
-
-* Enable only notifications, dont agree to other shit
+  * Enable only notifications, dont agree to other shit
 
 * [Solflare](https://play.google.com/store/apps/details?id=com.solflare.mobile)
 * [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark)
@@ -79,29 +78,26 @@ Repositories: F-Droid, IzzyOnDroid;
 
 * [Dashchan](https://f-droid.org/en/packages/com.mishiranu.dashchan/) + TODO: настройка
 * [**Nextcloud**](https://f-droid.org/packages/com.nextcloud.client/):
-
-* enter application
-* Add passcode
-* *Contacts/calendar backup?*
+  * enter application
+  * Add passcode
+  * *Contacts/calendar backup?*
 
 * [**KeepassDX**](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/): <- Make backup
-
-* App Settings:
-  * Write-protected
-  * Quick Search
-  * Subdomain Search
-  * Show lock button -> disable
-* Form Filling / Advanced unlocking - ??? Use app a bit and make decision
+  * App Settings:
+    * Write-protected
+    * Quick Search
+    * Subdomain Search
+    * Show lock button -> disable
+  * Form Filling / Advanced unlocking - ??? Use app a bit and make decision
 
 * [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-
-* Install extensions (Henchan)
-* General: Auto-update app disable
-* Appearance: pure black
-* Library: updates disable
-* Reader: Left to right; fast animation; 32bit; Crop borders
-* Security: Enable all
-* Advanced: Disable reports
+  * Install extensions (Henchan)
+  * General: Auto-update app disable
+  * Appearance: pure black
+  * Library: updates disable
+  * Reader: Left to right; fast animation; 32bit; Crop borders
+  * Security: Enable all
+  * Advanced: Disable reports
 
 * [Warden](https://gitlab.com/AuroraOSS/AppWarden)
 
@@ -109,26 +105,24 @@ Repositories: F-Droid, IzzyOnDroid;
 
 * [#WhoCalls Kaspersky mod](https://4pda.to/forum/index.php?showtopic=962141)
 * [AdAway Lite mod](https://4pda.to/forum/index.php?showtopic=275091):
-
-* disable app updates;
-* hide reboot diaglog after apply
-* disable web server
+  * disable app updates;
+  * hide reboot diaglog after apply
+  * disable web server
 
 * [DriveDroid (+ fresh mirrors)](https://4pda.to/forum/index.php?showtopic=405264)
 * [Fennec mod lite](https://4pda.to/forum/index.php?showtopic=1009463&view=findpost&p=112007367):
-
-* Settings:
-  * Search: Google, delete not needed ones
-  * Tabs: List | Close after one week
-  * Homepage: ??? | Opening screen - Last tab
-  * Logins / Credit Cards: Never save (using keepassdx), never fill
-  * Set as Default browser
-  * *Open links in apps* - enable
-* Addons:
-  * Ublock Origin - restore settings from desktop
-  * Dark Reader
-  * Search by Image
-* Homepage - clean pinned shit
+  * Settings:
+    * Search: Google, delete not needed ones
+    * Tabs: List | Close after one week
+    * Homepage: ??? | Opening screen - Last tab
+    * Logins / Credit Cards: Never save (using keepassdx), never fill
+    * Set as Default browser
+    * *Open links in apps* - enable
+  * Addons:
+    * Ublock Origin - restore settings from desktop
+    * Dark Reader
+    * Search by Image
+  * Homepage - clean pinned shit
 
 * [Flamingo for Twitter](https://4pda.to/forum/index.php?showtopic=750208)
 * [GBoard SRow mod](https://4pda.to/forum/index.php?s=&showtopic=469533&view=findpost&p=63157237)
