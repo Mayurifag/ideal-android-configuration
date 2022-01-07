@@ -18,6 +18,7 @@ on your PC:
 * Ublock origin settings
 * KeepassDX settings
 * Nova Backup
+* Dashchan Backup
 
 ## ROM and addons installation
 
@@ -27,6 +28,7 @@ Featuring for Poco F3:
 * [Magisk.zip](https://4pda.to/forum/index.php?showtopic=774072)
 * [NikGapps Core (Version S)](https://nikgapps.com/downloads)
 * [ROM — ArrowOS A12](https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-official.4348617/)
+* [AOSP Caller with recorder](https://forum.xda-developers.com/t/app-11-0-12-0-aosp-dialer-with-proximity-checkbox-call-recorder-incl-macro.4355609/)
 
 Flashing ROM instruction located at [ROM.md](ROM.md)
 
@@ -65,7 +67,7 @@ OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
 * [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark)
   * Notifications - 2ndry action delete -> type smart; style medium; led disable
   * Sound Preferences - disable
-* [TradingView](https://play.google.com/store/apps/details?id=com.tradingview.tradingviewapp) TODO
+* [TradingView](https://play.google.com/store/apps/details?id=com.tradingview.tradingviewapp)
 * [Yota](https://play.google.com/store/apps/details?id=ru.yota.android)
 * [Zen-money](https://play.google.com/store/apps/details?id=ru.zenmoney.androidsub)
   * Disable free money notification
@@ -90,12 +92,16 @@ Main package [Aurora Droid](https://f-droid.org/packages/com.aurora.adroid/)
 
 Repositories: F-Droid, IzzyOnDroid;
 
-* [Dashchan](https://f-droid.org/en/packages/com.mishiranu.dashchan/) + TODO: настройка
+* [Dashchan](https://f-droid.org/en/packages/com.mishiranu.dashchan/):
+  * Download extensions: self, webm, localhost, arhivach; 2ch/4ch/dobrochan/iichan/whatever
+  * General: lang, close pages; compat
+  * Interface: amoled theme; big captcha
+  * Media: download nearest image; filename checkboxes; end download untick
+  *
 * [**Nextcloud**](https://f-droid.org/packages/com.nextcloud.client/):
   * enter application
   * Add passcode
   * *Contacts/calendar backup?*
-
 * [**KeepassDX**](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/): <- Make backup
   * App Settings:
     * Write-protected
@@ -103,7 +109,6 @@ Repositories: F-Droid, IzzyOnDroid;
     * Subdomain Search
     * Show lock button -> disable
   * Form Filling / Advanced unlocking - ??? Use app a bit and make decision
-
 * [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
   * Install extensions (Henchan)
   * General: Auto-update app disable
@@ -112,7 +117,6 @@ Repositories: F-Droid, IzzyOnDroid;
   * Reader: Left to right; fast animation; 32bit; Crop borders
   * Security: Enable all
   * Advanced: Disable reports
-
 * [Warden](https://gitlab.com/AuroraOSS/AppWarden)
 
 ## Applications/mods from 4pda or another sites
@@ -122,7 +126,6 @@ Repositories: F-Droid, IzzyOnDroid;
   * disable app updates;
   * hide reboot diaglog after apply
   * disable web server
-
 * [DriveDroid (+ fresh mirrors)](https://4pda.to/forum/index.php?showtopic=405264)
 * [Fennec mod lite](https://4pda.to/forum/index.php?showtopic=1009463&view=findpost&p=112007367):
   * Settings:
@@ -137,7 +140,6 @@ Repositories: F-Droid, IzzyOnDroid;
     * Dark Reader
     * Search by Image
   * Homepage - clean pinned shit
-
 * [Flamingo for Twitter](https://4pda.to/forum/index.php?showtopic=750208)
 * [GBoard SRow mod](https://4pda.to/forum/index.php?s=&showtopic=469533&view=findpost&p=63157237)
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)
