@@ -60,12 +60,15 @@ OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
   * Experimental: enhanced token detection
 * [Pushbullet](https://play.google.com/store/apps/details?id=com.pushbullet.android)
   * Enable only notifications, dont agree to other shit
+  * Disable Telegram for notifications
 * [Solflare](https://play.google.com/store/apps/details?id=com.solflare.mobile) TODO
 * [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark)
   * Notifications - 2ndry action delete -> type smart; style medium; led disable
   * Sound Preferences - disable
 * [TradingView](https://play.google.com/store/apps/details?id=com.tradingview.tradingviewapp) TODO
 * [Yota](https://play.google.com/store/apps/details?id=ru.yota.android)
+* [Zen-money](https://play.google.com/store/apps/details?id=ru.zenmoney.androidsub)
+  * Disable free money notification
 * [ВТБ](https://play.google.com/store/apps/details?id=ru.vtb24.mobilebanking.android)
   * Push - time/see before auth
   * Enter via Touch; Disable statistics
