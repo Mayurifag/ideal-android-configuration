@@ -177,6 +177,10 @@ Repositories: F-Droid, IzzyOnDroid;
 * [Сбербанк от Blue cat](https://4pda.to/forum/index.php?showtopic=413213):
   * statistics disable; disable all shit widgets
 
+## Games
+
+* [GTA: SA mod](https://4pda.to/forum/index.php?showtopic=526516&st=45140#entry84379861)
+
 ## Things to do after installations
 
 * Go to Settings -> Apps + notifications + battery (thermal profiles) + privacy
@@ -254,7 +258,6 @@ online lib OPDF or smth / Moon+ Reader
 * [Quizlet](https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid) /
 [Memrise](https://strannikmodz.me/apps/learning/1010-memrise.html) /
 [TOEFL](https://strannikmodz.me/apps/learning/587-toefl.html)
-* Games
 * TTL / yota via shadowsocks
 * [FFmpeg GUI mod Alex.Strannik](https://4pda.to/forum/index.php?showtopic=318265)
 * Clock + weather [Chronus](https://4pda.to/forum/index.php?showtopic=425879) + Abhra theme
