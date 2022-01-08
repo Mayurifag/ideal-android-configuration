@@ -180,6 +180,12 @@ Repositories: F-Droid, IzzyOnDroid;
 ## Games
 
 * [GTA: SA mod](https://4pda.to/forum/index.php?showtopic=526516&st=45140#entry84379861)
+* Limbo
+* Titan Quest
+* Max Payne
+* Planescape: Torment
+* This is the Police 1-2
+* Valiant Hearts
 
 ## Things to do after installations
 
