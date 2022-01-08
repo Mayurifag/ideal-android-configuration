@@ -112,6 +112,8 @@ Repositories: F-Droid, IzzyOnDroid;
     * Subdomain Search
     * Show lock button -> disable
   * Form Filling / Advanced unlocking - ??? Use app a bit and make decision
+* [Libretorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent) <- check hd videobox; if not working - check sagernet
+  * Black theme
 * [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
   * Install extensions (Henchan)
   * General: Auto-update app disable
@@ -154,12 +156,15 @@ Repositories: F-Droid, IzzyOnDroid;
   * Make gboard and nova to be system apps
 * [MX Player Pro mod](https://4pda.to/forum/index.php?showtopic=253883) -> backup
 * [Nova Launcher Prime Mod](https://4pda.to/forum/index.php?showtopic=297970) -> remove old launcher, move to system-apps, backup
+* [SagerNet](https://github.com/SagerNet/SagerNet/releases):
+  * Import config from secret.md
+  * Make connections only through vpn in system
 * [SD Maid mod](https://4pda.to/forum/index.php?showtopic=230839)
 * [Shazam mod lite](https://4pda.to/forum/index.php?showtopic=128657)
 * [Solid Explorer mod](https://4pda.to/forum/index.php?showtopic=325553)
 * [Stellio Player Premium](https://pdalife.ru/stellio-player-android-a33518.html)
-* [Stellio VK plugin](https://4pda.to/forum/index.php?showtopic=556993)
-* [Telegram Plus](https://4pda.to/forum/index.php?showtopic=649318)
+  * [Stellio VK plugin](https://4pda.to/forum/index.php?showtopic=556993)
+* [~~Telegram Plus~~](https://4pda.to/forum/index.php?showtopic=649318)
 * [Titanium Backup Pro by Balatan](https://4pda.to/forum/index.php?showtopic=152562)
 * [Todoist Premium mod](https://4pda.to/forum/index.php?showtopic=445134)
 * [Twitch Adfree mod](https://4pda.to/forum/index.php?showtopic=320321)
@@ -177,7 +182,6 @@ Repositories: F-Droid, IzzyOnDroid;
 * Go to Settings -> Apps + notifications + battery (thermal profiles) + privacy
 (privacy dashboard)
 * Warden -> disable trackers
-* Move keyboard, launcher to system apps, remove old ones
 
 ## Not used
 
@@ -193,6 +197,7 @@ mod or [neptune](https://4pda.to/forum/index.php?showtopic=912798)
 * [Едадил](https://strannikmodz.me/apps/office/1000-edadil.html)
 * [Купи Батон!](https://4pda.to/forum/index.php?showtopic=494295)
 * Яндекс.Музыка
+* Dns shop
 
 ## Research and todos
 
@@ -212,23 +217,11 @@ Bromite / Styx
 * Sharing files: pushbullet alternative. Research snapdrop/opendrop/croc
 * Remote control that works on Linux and Windows. Maybe macos as well.
 
-### Shadowsocks
-
-* [V2RayNG mod](https://4pda.to/forum/index.php?showtopic=1033788)
-* [Shadowsocks mod](https://4pda.to/forum/index.php?showtopic=744431)
-* [Shadowsocks plugin v2ray](https://play.google.com/store/apps/details?id=com.github.shadowsocks.plugin.v2ray)
-* Sagernet - something wrong :(
-
 ### VK
 
-* VK Me from 4pda mod
+* VK Me from 4pda mod !!!
 * [VK mods: Sova/VTosters/MP3 Alex.Strannik](https://4pda.to/forum/index.php?showtopic=246233)
 * [VK Helper](https://strannikmodz.me/apps/internet/896-vk-helper.html)
-
-### Torrents
-
-Torrent Client - ??? ttorrent or flud
-[Rutracker - Flow](https://4pda.to/forum/index.php?showtopic=729411) / Libretorrent
 
 ### Magisk config
 
@@ -238,6 +231,9 @@ Torrent Client - ??? ttorrent or flud
 * [Magisk Manager for Recovery Mode](https://4pda.to/forum/index.php?showtopic=915158&st=0#entry76265618)
 * [Magisk Manager Recovery Tool](https://4pda.to/forum/index.php?showtopic=915158&st=20#entry81113962)
 * Xposed
+
+Magisk ios14 emojis
+Magisk busybox for lucky patcher
 
 ### Telegram
 
@@ -263,8 +259,7 @@ online lib OPDF or smth / Moon+ Reader
 * [FFmpeg GUI mod Alex.Strannik](https://4pda.to/forum/index.php?showtopic=318265)
 * Clock + weather [Chronus](https://4pda.to/forum/index.php?showtopic=425879) + Abhra theme
 * Save battery life? <https://4pda.to/forum/index.php?s=&showtopic=915158&view=findpost&p=95556498>
-* Magisk ios14 emojis
-* TZData fixes
+* ~~TZData fixes~~
 * ~~Better block spam~~
 * Tor configuration
 * Greenify — do I need it? without agressive mod. Battery show who exactly eats
@@ -273,7 +268,6 @@ on chosen amount of time
 * Calculator
 * Stocks / Calendar widgets
 * QuickPic Gallery
-* Dns shop
 * Screenshot -> all the page with scrolling
 
 ## Inspired
