@@ -122,6 +122,7 @@ Repositories: F-Droid, IzzyOnDroid;
   * Reader: Left to right; fast animation; 32bit; Crop borders
   * Security: Enable all
   * Advanced: Disable reports
+* [Twire](https://github.com/twireapp/Twire)
 * [Warden](https://gitlab.com/AuroraOSS/AppWarden)
 
 ## Applications/mods from 4pda or another sites
@@ -150,6 +151,7 @@ Repositories: F-Droid, IzzyOnDroid;
 * [Flamingo for Twitter](https://4pda.to/forum/index.php?showtopic=750208)
 * [GBoard SRow mod](https://4pda.to/forum/index.php?s=&showtopic=469533&view=findpost&p=63157237)
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)
+* [Joey for Reddit Mod](https://4pda.to/forum/index.php?showtopic=809713)
 * [KinoPub](https://4pda.to/forum/index.php?showtopic=903891)
 * [LuckyPatcher](https://4pda.to/forum/index.php?showtopic=298302)
   * VTB - custom patch
@@ -167,7 +169,6 @@ Repositories: F-Droid, IzzyOnDroid;
 * [~~Telegram Plus~~](https://4pda.to/forum/index.php?showtopic=649318)
 * [Titanium Backup Pro by Balatan](https://4pda.to/forum/index.php?showtopic=152562)
 * [Todoist Premium mod](https://4pda.to/forum/index.php?showtopic=445134)
-* [Twitch Adfree mod](https://4pda.to/forum/index.php?showtopic=320321)
 * [Vanced Manager](https://4pda.to/forum/index.php?showtopic=997981)
   * [Youtube Vanced](https://4pda.to/forum/index.php?showtopic=916464)
 * [WIBR+ WiFi Bruteforce](https://4pda.to/forum/index.php?showtopic=474979)
@@ -260,7 +261,6 @@ WIBR: mod dont bruteforce
 * research [apps without shit](https://4pda.to/forum/index.php?showtopic=1005108&st=220)
 * research book reading app ([PocketBook](https://play.google.com/store/apps/details?id=com.obreey.reader)) +
 online lib OPDF or smth / Moon+ Reader
-* qr scanner in google camera
 * [Quizlet](https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid) /
 [Memrise](https://strannikmodz.me/apps/learning/1010-memrise.html) /
 [TOEFL](https://strannikmodz.me/apps/learning/587-toefl.html)
@@ -276,8 +276,8 @@ on chosen amount of time
 * [Glitch Lab](https://strannikmodz.me/apps/multimedia/827-glitch-lab.html)
 * Calculator
 * Stocks / Calendar widgets
-* QuickPic Gallery
-* Screenshot -> all the page with scrolling
+* ~~QuickPic Gallery~~
+* Collabora Office
 
 ## Inspired
 
