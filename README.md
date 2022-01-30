@@ -28,10 +28,12 @@ on your PC:
 Featuring for Poco F3:
 
 * [TWRP A12](https://4pda.to/forum/index.php?showtopic=1023071&view=findpost&p=112114787)
+* Rom — ArrowOS / crDroid
+* [NikGapps Core (Version S)](https://nikgapps.com/downloads) + Google Messages Addon (just to have fast copy 2fa codes)
 * [Magisk.zip](https://4pda.to/forum/index.php?showtopic=774072)
-* [NikGapps Core (Version S)](https://nikgapps.com/downloads)
-* [ROM — ArrowOS A12](https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-official.4348617/)
-* [AOSP Caller with recorder](https://forum.xda-developers.com/t/app-11-0-12-0-aosp-dialer-with-proximity-checkbox-call-recorder-incl-macro.4355609/)
+* DFE
+
+* [~~AOSP Caller with recorder~~](https://forum.xda-developers.com/t/app-11-0-12-0-aosp-dialer-with-proximity-checkbox-call-recorder-incl-macro.4355609/)
 
 Flashing ROM instruction located at [ROM.md](ROM.md)
 
@@ -39,16 +41,26 @@ Flashing ROM instruction located at [ROM.md](ROM.md)
 
 OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
 
+### Magisk config
+
+* Zygisk
+* Add to DenyList every app from google play that dont need root + Enforce DenyList
+* [iOS 14 emoji](https://forum.xda-developers.com/t/magisk-module-ios-14-6-14-5-14-2-emoji-for-messenger-fb-replace-default-android-emoji-change-messenger-fb-emoji-to-ios-14-emoji.4214993/)
+* [SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix/releases)
+* [Fake Encryption (vtb, etc.)](https://4pda.to/forum/index.php?showtopic=915158&st=80#entry94310579)
+* [Hosts list](https://4pda.to/forum/index.php?showtopic=915158&st=140#entry97603491)
+* Busybox
+
 ## Free or already paid applications from Google Play
 
-* [2ГИС](https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile)
-  * Download maps; Change language; navigator setup - voice instructions; disable ads
 * [AliExpress New](https://play.google.com/store/apps/details?id=ru.aliexpress.buyer)
 * [Binance](https://play.google.com/store/apps/details?id=com.binance.dev)
   * Profile - Notifications - Market / Analytics disable
   * Security - Touch ID
 * [CDEK](https://play.google.com/store/apps/details?id=com.logistic.sdek)
   * Notifications - Disable for courier rating
+* [CoinMarketCap](https://play.google.com/store/apps/details?id=com.coinmarketcap.android)
+  * Login
 * [Delivery Club](https://play.google.com/store/apps/details?id=com.deliveryclub)
 * [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
   * Check magisk / card chosen
@@ -56,6 +68,7 @@ OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
   * Set dark theme
   * Disable several notifications
   * Touch ID
+* [**Keepass2android**](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
 * [KuCoin](https://play.google.com/store/apps/details?id=com.kubi.kucoin)
   * Security - Touch ID
 * [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps)
@@ -66,6 +79,7 @@ OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
 * [Pushbullet](https://play.google.com/store/apps/details?id=com.pushbullet.android)
   * Enable only notifications, dont agree to other shit
   * Disable Telegram, Fennec for notifications
+* [SafetyNet Check](https://play.google.com/store/apps/details?id=rikka.safetynetchecker)
 * [Solflare](https://play.google.com/store/apps/details?id=com.solflare.mobile) TODO
 * [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark)
   * Notifications - 2ndry action delete -> type smart; style medium; led disable
@@ -105,7 +119,7 @@ Repositories: F-Droid, IzzyOnDroid;
   * enter application
   * Add passcode
   * *Contacts/calendar backup?*
-* [**KeepassDX**](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/): <- Make backup
+* [~~KeepassDX~~](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/): <- Make backup
   * App Settings:
     * Write-protected
     * Quick Search
@@ -127,12 +141,11 @@ Repositories: F-Droid, IzzyOnDroid;
 
 ## Applications/mods from 4pda or another sites
 
+* [2ГИС / 2GIS](https://4pda.to/forum/index.php?showtopic=12004)
+  * Download maps; Change language; navigator setup - voice instructions; disable ads
 * [#WhoCalls Kaspersky mod](https://4pda.to/forum/index.php?showtopic=962141):
   * Download offline base, block all spammers
-* [AdAway Lite mod](https://4pda.to/forum/index.php?showtopic=275091):
-  * disable app updates;
-  * hide reboot diaglog after apply
-  * disable web server
+* [Chronus](https://4pda.to/forum/index.php?showtopic=425879)
 * [DriveDroid (+ fresh mirrors)](https://4pda.to/forum/index.php?showtopic=405264):
   * Import repository <https://dd.hexed.pw>, remove default
 * [Fennec mod lite](https://4pda.to/forum/index.php?showtopic=1009463&view=findpost&p=112007367):
@@ -234,18 +247,6 @@ Bromite / Styx
 * [VK mods: Sova/VTosters/MP3 Alex.Strannik](https://4pda.to/forum/index.php?showtopic=246233)
 * [VK Helper](https://strannikmodz.me/apps/internet/896-vk-helper.html)
 
-### Magisk config
-
-* SafetyNet
-* Add to MagiskHide every app from google play that dont need root
-
-* [Magisk Manager for Recovery Mode](https://4pda.to/forum/index.php?showtopic=915158&st=0#entry76265618)
-* [Magisk Manager Recovery Tool](https://4pda.to/forum/index.php?showtopic=915158&st=20#entry81113962)
-* Xposed
-
-Magisk ios14 emojis
-Magisk busybox for lucky patcher
-
 ### Telegram
 
 Find something simpler than Telegram Plus Messenger
@@ -266,8 +267,6 @@ online lib OPDF or smth / Moon+ Reader
 [TOEFL](https://strannikmodz.me/apps/learning/587-toefl.html)
 * TTL / yota via shadowsocks
 * [FFmpeg GUI mod Alex.Strannik](https://4pda.to/forum/index.php?showtopic=318265)
-* Clock + weather [Chronus](https://4pda.to/forum/index.php?showtopic=425879) + Abhra theme
-* Save battery life? <https://4pda.to/forum/index.php?s=&showtopic=915158&view=findpost&p=95556498>
 * ~~TZData fixes~~
 * ~~Better block spam~~
 * Tor configuration
@@ -278,6 +277,8 @@ on chosen amount of time
 * Stocks / Calendar widgets
 * ~~QuickPic Gallery~~
 * Collabora Office
+* [Disable Meltdown patches](https://4pda.to/forum/index.php?showtopic=894598&st=30300#entry109785593)
+* [Google Dialer Mod Magisk](https://github.com/jacopotediosi/GoogleDialerMod-Magisk/releases)
 
 ## Inspired
 

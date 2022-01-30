@@ -57,3 +57,19 @@ Source from [4pda](https://4pda.to/forum/index.php?showtopic=1023071&st=1840#Spo
 ### First to install apps
 
 Gboard, Nova, KeepassDX, Nextcloud, Fennec
+
+## crDroid installation
+
+```txt
+- make use of twrp 3.6.0_11-RedmiK40_v3.0.4_A12-alioth-skkk_f7ef1b18.img;
+- fastboot flash boot v3.2_A12_twrp_crdroid.img
+- fastboot reboot recovery
+- flash Firmware (minimum requirement 12.5.3) (skip if you are on 12.5.3 or later);
+- flash crDroid (toggle auto flash twrp);
+- reboot recovery;
+- (optional) flash Gapps (no auto toggle needed);
+- (optional) flash Magisk (no auto toggle needed);
+- (optional) flash DFE;
+- format data;
+- boot system.
+```
