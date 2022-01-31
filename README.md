@@ -49,7 +49,7 @@ OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
 * [SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix/releases)
 * [Fake Encryption (vtb, etc.)](https://4pda.to/forum/index.php?showtopic=915158&st=80#entry94310579)
 * [Hosts list](https://4pda.to/forum/index.php?showtopic=915158&st=140#entry97603491)
-* Busybox
+* [Busybox](https://4pda.to/forum/index.php?showtopic=915158&st=100#entry95475185)
 
 ## Free or already paid applications from Google Play
 
