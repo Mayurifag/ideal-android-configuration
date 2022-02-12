@@ -34,6 +34,7 @@ Featuring for Poco F3:
 * DFE
 
 * [~~AOSP Caller with recorder~~](https://forum.xda-developers.com/t/app-11-0-12-0-aosp-dialer-with-proximity-checkbox-call-recorder-incl-macro.4355609/)
+* [Google Camera with config](https://4pda.to/forum/index.php?showtopic=1022502&st=2500#entry112871048)
 
 Flashing ROM instruction located at [ROM.md](ROM.md)
 
@@ -78,7 +79,7 @@ OS configuration instruction located at [CONFIGURATION.md](CONFIGURATION.md)
   * Experimental: enhanced token detection
 * [Pushbullet](https://play.google.com/store/apps/details?id=com.pushbullet.android)
   * Enable only notifications, dont agree to other shit
-  * Disable Telegram, Fennec for notifications
+  * Disable Telegram, Fennec, Zenmoney for notifications
 * [SafetyNet Check](https://play.google.com/store/apps/details?id=rikka.safetynetchecker)
 * [Solflare](https://play.google.com/store/apps/details?id=com.solflare.mobile) TODO
 * [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark)
